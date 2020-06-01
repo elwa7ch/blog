@@ -13,5 +13,9 @@
         "nikic/fast-route": "~0.5.0",
         "twig/twig": "^1.18",
         "mnapoli/silly": "^1.7"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "3.*"
     }
+
 }
